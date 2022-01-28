@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yamasaan
+- 👋 Hi, I’m @yamasaan (utain)
 - 👀 I’m interested in ... c# unity python javascript vue kotlin firebase
 - 🌱 I’m currently learning ... typescript
 - 💞️ I’m looking to collaborate on ...
